@@ -67,13 +67,16 @@ This project explores the philosophy, usage, and practical implementation of ope
 
 ## How to Run the Scripts
 
-### Step 1: Make scripts executable
+## step 1 : clone the repository:
+git clone https://github.com/Debjeet2006/oss_audit_project.git cd oss_audit_project
+
+### Step 2: Make scripts executable
 
 ```bash
 chmod +x *.sh
 ```
 
-### Step 2: Run scripts
+### Step 3: Run scripts
 
 ```bash
 ./script1.sh
@@ -84,6 +87,8 @@ chmod +x *.sh
 ```
 
 ---
+## output :
+Each script prints system-related information directly in the terminal.
 
 ## Requirements
 
@@ -92,6 +97,9 @@ chmod +x *.sh
 * Git installed on system
 
 ---
+## note :
+*Scripts were tested in a virtual machine environment
+*Outputs may vary depending on system configuration
 
 ## Learning Outcomes
 

@@ -76,7 +76,8 @@ git clone https://github.com/Debjeet2006/oss_audit_project.git cd oss_audit_proj
 chmod +x *.sh
 ```
 
-### Step 3: Run scripts
+### Step 3: Run scripts 
+(each file individually)
 
 ```bash
 ./script1.sh
